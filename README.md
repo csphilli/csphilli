@@ -39,6 +39,9 @@ You know LinkedIn, but my YouTube channel has content that I've created in order
   </a>
 </div>
 
+## 🐝 Hive projects
+Most of the [Hive](https://www.hive.fi/en/) ([school 42](https://en.wikipedia.org/wiki/42_(school))) projects I did are public. The ones I'm most proud of are pinned below this About section
+
 ## 🔭 Current project
 **NOTE:** Unfortunately I can't provide public access to this repo. However, if you're a recruiter looking to pick my mind about the site, and what I've done with it, i'd be glad to schedule a meeting so I can share a screen and show you.
 
