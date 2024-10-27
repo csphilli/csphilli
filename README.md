@@ -64,7 +64,3 @@ A good developer is able to identify problems and write an application that solv
   - Members could have different roles which afforded them different rights on the site. Ability to edit those as well.
   - Ability for the contact form on the homepage to send the message to existing board members.
   - Good documentation. A FAQ specifically created for members to refer back to if they didn't know how to use the CMS
-
-This turned out to be a much larger project that I thought but I'm grateful I've taken it on.
-
-⚡ Fun fact: I work at my normal job from 8am - 4pm and then I work on the site from 7:15pm until midnight. I love doing this work that much, it's no exageration
