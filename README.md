@@ -2,7 +2,6 @@
 My name is Christopher (Chris is perfectly fine). I'm a full stack developer. I come from a financial background. After a pretty hefty life changing event, I decided that another change was necessary and I jumped into programming. And I never looked back. Passionate is a good word to describe it. But I like insatiable even more. I'm always on the look out for something fun to work on.
 
 ## Tech
-Here's a bit of what I'm working with and what I consider myself to have knowledge of.
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
@@ -43,7 +42,7 @@ You know LinkedIn, but my YouTube channel has content that I've created in order
 Most of the [Hive](https://www.hive.fi/en/) ([school 42](https://en.wikipedia.org/wiki/42_(school))) projects I did are public. The ones I'm most proud of are pinned below this About section
 
 ## 🔭 Current project
-**NOTE:** Unfortunately I can't provide public access to this repo. However, if you're a recruiter looking to pick my mind about the site, and what I've done with it, i'd be glad to schedule a meeting so I can share a screen and show you.
+**NOTE:** Unfortunately I can't provide public access to this repo. However, if you'd like to pick my mind about the site, and what I've done with it, i'd be glad to schedule a meeting so I can share a screen and show you.
 
 I love baseball. When I moved to Finland, I couldn't believe they had American baseball. I joined the Helsinki Mets and played for several years. I'm now the current treasurer and website maintainer for the organization. When I first started maintaining the site, it was wordpress. But then I changed careers into computer programming and saw a great opportunity to improve my skills as a web developer.
 
