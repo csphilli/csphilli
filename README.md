@@ -35,7 +35,7 @@ My name is Christopher (Chris is perfectly fine). I'm a full stack developer. I 
 You know LinkedIn, but my YouTube channel has content that I've created in order to help fellow students improve their odds at passing School 42 exam questions
 <div align="left">
   <a href="https://www.linkedin.com/in/csphilli/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.youtube.com/@ChristopherPhillipsDev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
